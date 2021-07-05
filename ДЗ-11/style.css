@@ -1,0 +1,7 @@
+input, button, p {
+    margin: 10px;
+}
+.done {
+	text-decoration: line-through;
+	color: gray;
+}
