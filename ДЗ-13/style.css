@@ -1,0 +1,11 @@
+.text {
+	display: none;
+}
+
+.block.active>.text {
+	display: block;
+}
+
+.button {
+	margin-top: 10px;
+}
